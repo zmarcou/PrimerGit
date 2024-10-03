@@ -4,4 +4,23 @@
 *.pdf
 
 /[Tt]est/
+/[Oo]bj]
 /[Dd]ebug/
+/[Ll]ibrary/
+/[Tt]emp/
+Practica1WPF/obj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Bb]in/
+/.vs/
+
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.user
